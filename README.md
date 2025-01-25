@@ -11,3 +11,4 @@ Power BI.
 - End Date
 # Dashboard
 - <a href="https://github.com/Gayathri16052002/prime-video-Dashboard/blob/main/B.Gayathri%20Reddy%20prime%20video.pbix">Prime Video Dashboard</a>
+- <a href ="https://github.com/Gayathri16052002/prime-video-Dashboard/blob/main/Prime%20Video%20Dashboard%20image.png">Prime video Dashboard Image</a>
