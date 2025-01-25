@@ -3,7 +3,7 @@
 Analysed Prime Video’s user data to track engagement trends and content preferences using 
 Power BI.
 # KPI'S Requirements
--Total Titles
+- Total Titles
 - Total Ratings
 - Total Genres
 - Total Directors
